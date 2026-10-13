@@ -1,0 +1,12 @@
+nicegui>=1.4.0
+pywebview>=5.0
+pynput>=1.7.6
+pygetwindow>=0.0.9; sys_platform == 'win32'
+pyobjc-framework-Quartz>=10.0; sys_platform == 'darwin'
+python-xlib>=0.33; sys_platform == 'linux'
+pystray>=0.19.5
+pillow>=10.0.0
+pyinstaller>=6.0.0; sys_platform == 'win32'
+psutil
+python-dateutil
+fullcalendar-python  # Or use CDN
